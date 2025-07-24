@@ -27,4 +27,6 @@ If your aim is to explore everything this darknet marketplace offers, make sure 
 
 
 
-Update: url is now available and clickable
+
+
+Update: url is back online and live
